@@ -10,8 +10,13 @@ OrangeHRM task
   Check the Page title
   Click on Leave
   Check the Leave Page Header
-  Click on Apply Button
-  Check the Apply page
+  Click on Assign Leave Button
+  Check the Assign Leave
+  Add Employee Name
+  Add Leave Type
+  Add Date From To
+  Click on Assign
+  Check the Toaster message
   Click on Profile Button
   CLick on Logout Button
   Check that user is logged out
